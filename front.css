@@ -1,0 +1,58 @@
+#hoi {
+    text-align: center ;
+    font-family: Verdana ;
+    color: white ;
+    position: fixed ;
+    background-color:red ;
+    text-align: center ;
+    left: 0px ;
+    right: 0px ;
+    width: 100%;
+    margin: auto ;
+    padding: 15px ;
+    margin-top: 0px ;
+    padding-top: 30px ;
+    top: 0px ;
+    font-size: 2em;
+}
+
+#id2 {
+    padding-top: 90px;
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    font-family: "Arial Nova", Arial, Helvetica, sans-serif;
+}
+
+#id3 {
+    padding-left: 8px
+    
+}
+
+a {
+    color: white;
+}
+
+.hoi {
+    padding-left: 105px;
+    padding-right: 105px;
+}
+
+#a {
+    float: left;
+    font-size: 2em;
+}
+
+.a {
+    padding-left: 115px;
+}
+
+.b {
+    padding-left: 275px;
+}
+
+.c {
+    padding-left: 330px;
+}
