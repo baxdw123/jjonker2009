@@ -2,7 +2,7 @@
     text-align: center ;
     font-family: Verdana ;
     color: white ;
-    position: fixed ;
+
     background-color:red ;
     text-align: center ;
     left: 0px ;
@@ -13,46 +13,26 @@
     margin-top: 0px ;
     padding-top: 30px ;
     top: 0px ;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 #id2 {
-    padding-top: 90px;
-    width: 200px;
-    height: 200px;
+    padding-top: 100px;
+    width: 60%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
     font-family: "Arial Nova", Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    display: block;
+    text-align: center;
 }
 
-#id3 {
-    padding-left: 8px
-    
+img {
+    width: 100px
 }
 
-a {
-    color: white;
-}
-
-.hoi {
-    padding-left: 105px;
-    padding-right: 105px;
-}
-
-#a {
-    float: left;
-    font-size: 2em;
-}
-
-.a {
-    padding-left: 115px;
-}
-
-.b {
-    padding-left: 275px;
-}
-
-.c {
-    padding-left: 330px;
-}
